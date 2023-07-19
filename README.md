@@ -10,4 +10,6 @@ Microsoft Power BI Dashboards
 ## DASHBOARD 3: DIVERSITY & INCLUSION
 ![BI_3 1](https://github.com/Diya032/PwC-Virtual-Power-BI-Experience/assets/99545441/87f8da84-9aa3-4dbf-bf08-237e13c571ea)
 
+
+
 ![BI_3 2](https://github.com/Diya032/PwC-Virtual-Power-BI-Experience/assets/99545441/cb5223cc-08db-493f-adde-32eb3c70fdf0)
